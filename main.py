@@ -23,7 +23,7 @@ def multirec_handler(app, message):
 
     multi_rec(app, message)
 
-@app.on_message(filters.incoming & filters.command(['channels']) & filters.text)
+@app.on_message(filters.incoming & filters.command(['channels']) & filter .incoming & filters.text)
 def show_channels_handler(app, message):
 
     auth_user = check_user(message)
