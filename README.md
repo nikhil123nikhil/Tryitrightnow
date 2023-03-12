@@ -10,3 +10,5 @@ A Telegram bot to Download and Convert m3u Links to VIDEO
 - `IPTV_LINK` The URL which contains data for IPTV
 
 ---
+
+[![Deploy Now](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikhil123nikhil/Tryitrightnow)
